@@ -1,3 +1,4 @@
+![logo](https://github.com/datagithubsingh/datagithubsinghP/assets/166549213/7f1203a3-fed3-42df-a4d1-488ab4c738b5.png)
 
 <h1 align="center">Hi 👋, I'm POOJA SINGH</h1>
 <h3 align="center">I am considering transitioning my career path to focus on data analytics.</h3>
